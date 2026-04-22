@@ -28,6 +28,26 @@ Designed for:
 - TTP223 capacitive touch sensor
 - One physical button
 
+## Device Case (Early Access)
+
+The Early Access device cases are 3D printed using a [Bambu Lab](https://bambulab.com) printer and [Bambu Lab PLA](https://bambulab.com/en/filament) filament.
+
+The photo below shows some of the color variants printed for the Early Access batch.
+
+![Batch of Notificator Project Early Access devices](EarlyAccessDevices.jpeg)
+
+Early Access devices were shipped for free to people who signed up to receive one.
+
+Case design attribution:
+- Designer: Uladzimir Hitsarau
+- Model page: https://makerworld.com/en/models/2270326-tinytosh-mini-retro-pc-smart-wifi-display-esp32
+
+PLA sustainability notes:
+- PLA is commonly made from renewable plant-based feedstocks (for example, corn starch or sugarcane).
+- It generally prints at lower temperatures than many petroleum-based filaments, which can reduce printing energy demand.
+- While often described as biodegradable, PLA usually requires specific industrial composting conditions; it does not reliably break down quickly in normal household environments.
+- To improve sustainability in practice, minimize failed prints, reuse prototypes when possible, and use local recycling/composting programs where accepted.
+
 ## GPIO / Wiring Reference
 
 Based on the firmware pin definitions:
